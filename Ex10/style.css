@@ -69,7 +69,7 @@ h2 {
 ol li {
     display: flex;
     align-items: center; /* Alinha verticalmente os itens */
-    gap: 10px; /* Espaçamento horizontal entre os elementos */
+    gap: 25px; /* Espaçamento horizontal entre os elementos */
     margin-bottom: 10px; /* Espaçamento entre os itens da lista */
 }
 
